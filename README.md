@@ -26,6 +26,7 @@ Project developed during **NLW - Next Level Week** offered by [Rocketseat](https
 ## Features
 
 - [x] We can:
+  - [x] create users
   - [x] make deposits
   - [x] make withdraws
   - [x] make transactions
@@ -84,7 +85,7 @@ The following tools were used in the construction of the project:
 
 #### **Utils**
 
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[ElixirLinter](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)** and **[ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls)**
 - API Test: **[Insomnia](https://insomnia.rest/)**
 
 ---
